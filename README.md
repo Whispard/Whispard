@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a C# & MEAN Stack developer who loves to make useful tools & Windows Applications. 
+I am a C# & MEAN Stack developer who loves to make useful tools & Windows Applications.
+Open to anything that is Interesting.
 
