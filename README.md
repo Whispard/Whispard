@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a C# & MEAN Stack developer who loves to make useful tools & Windows Applications. 
+
